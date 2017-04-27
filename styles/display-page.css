@@ -1,0 +1,48 @@
+main {	
+	font-size: 0;	
+}
+
+.big-box {
+ 	margin-top: 90px
+ 	width: 800px; 	
+ 	margin-left: auto;
+	margin-right: auto;	
+}
+
+.box {
+	border: 1px solid black;
+	display: inline-block;
+}
+
+	.inner {
+		text-align: center;
+	}
+
+	.half {
+		width: 50%;
+		height: 200px
+	}
+
+	.third {
+		width: 33.33%;
+        height: 300px;
+	}
+		.inner-green-box {
+			background-color: green;				
+		}
+
+		.inner-blue-box {
+			background-color: blue;		
+		}
+
+	   .inner-grey-box {
+		background-color: grey;
+	   }
+
+		.inner-black-box {
+			background-color: black;
+		}
+
+		.inner-orange-box {
+			background-color: orange;
+		}
