@@ -9,10 +9,10 @@ main {
 	margin-right: auto;	
 }
 
-.box {
-	border: 1px solid black;
-	display: inline-block;
-}
+    .box {
+		border: 1px solid black;
+		display: inline-block;
+    }
 
 	.inner {
 		text-align: center;
@@ -27,22 +27,22 @@ main {
 		width: 33.33%;
         height: 300px;
 	}
-		.inner-green-box {
-			background-color: green;				
-		}
+	.inner-green-box {
+		background-color: green;				
+	}
 
-		.inner-blue-box {
-			background-color: blue;		
-		}
+	.inner-blue-box {
+		background-color: blue;		
+	}
 
-	   .inner-grey-box {
-		background-color: grey;
-	   }
+	.inner-grey-box {
+	    background-color: grey;
+	}
 
-		.inner-black-box {
-			background-color: black;
-		}
+    .inner-black-box {
+	    background-color: black;
+	}
 
-		.inner-orange-box {
-			background-color: orange;
-		}
+	.inner-orange-box {
+		background-color: orange;
+	}
